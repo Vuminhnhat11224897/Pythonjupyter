@@ -1,1 +1,0 @@
-# Pythonjupyter vkl
